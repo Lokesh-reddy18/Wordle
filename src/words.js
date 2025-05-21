@@ -1,0 +1,12 @@
+export const WORDS = [
+  'APPLE', 'BEACH', 'CLOUD', 'DREAM', 'EARTH',
+  'FLAME', 'GHOST', 'HEART', 'IVORY', 'JUICE',
+  'KNIFE', 'LEMON', 'MAGIC', 'NIGHT', 'OCEAN',
+  'PEACE', 'QUEEN', 'RADIO', 'SMILE', 'TIGER',
+  'UNITY', 'VOICE', 'WATER', 'YOUTH', 'ZEBRA',
+  'BRAIN', 'CHAIR', 'DANCE', 'EAGLE', 'FROST',
+  'GREEN', 'HAPPY', 'IDEAL', 'JUMBO', 'KARMA',
+  'LIGHT', 'MUSIC', 'NORTH', 'POWER', 'QUICK',
+  'RIVER', 'STORM', 'TRAIN', 'URBAN', 'VITAL',
+  'WOMAN', 'XEROX', 'YACHT', 'ZESTY'
+]; 
