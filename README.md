@@ -1,5 +1,9 @@
 # Wordle Game
 
+[![Deploy on Vercel](https://vercel.com/button)](https://wordle18.vercel.app/)
+
+**Live Demo:** [https://wordle18.vercel.app/](https://wordle18.vercel.app/)
+
 A modern implementation of the popular word-guessing game Wordle, built with React.js. This version features a clean, responsive design with smooth animations and a dark/light theme toggle.
 
 ![Wordle Game](public/favicon.svg)
